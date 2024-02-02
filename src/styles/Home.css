@@ -1,0 +1,7 @@
+h1 {
+  font-size: larger;
+}
+.grid-container {
+  display: inline-grid;
+  grid-column: 3;
+}
